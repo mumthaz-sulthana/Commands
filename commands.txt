@@ -9,3 +9,7 @@ git status          [to check the untracked files]
 git add -A          [add all untracked files to staging area]
 
 git commit -m "commit message"     [to add the staging files to local repository]
+
+git branch      [to list the all branch]
+
+git remote -v       [to list the all remote]
