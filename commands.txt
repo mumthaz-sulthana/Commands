@@ -13,3 +13,7 @@ git commit -m "commit message"     [to add the staging files to local repository
 git branch      [to list the all branch]
 
 git remote -v       [to list the all remote]
+
+git remote add remote_name "remote_path   [to add remote repository to local]
+
+git push remote_name branch_name  [push]
